@@ -1,6 +1,5 @@
 package Day_12;
     import java.util.*;
-import java.util.Arrays;
     public class d12question_leetcode {
     public static int linecount = 0;
 
